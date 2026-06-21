@@ -36,7 +36,7 @@
 
 **Minecraft**
 ![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?logo=minecraft&logoColor=white)
-**Forge & Fabric *Making customs too* **
+**Forge & Fabric _Making customs too_**
 
 **Others**
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
