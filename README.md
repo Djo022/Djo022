@@ -14,7 +14,7 @@
 - **19 y/o** Software Engineering student & developer
 - Passionate about **Data Science**, **Statistics**, and building **Machine Learning models**
 - Active **Minecraft Mod** and **Modpack** developer
-- Love turning data into insights and pixels into gameplay ✨
+- Love turning data into insights and pixels into gameplay.
 
 ### 🛠️ Tech Stack
 
@@ -22,7 +22,12 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 
+**Web & Databases**
+![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
 **Data Science & ML**
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
@@ -31,18 +36,18 @@
 
 **Minecraft**
 ![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?logo=minecraft&logoColor=white)
-**Forge / Fabric / Quilt**
+**Forge & Fabric *Making customs too* **
 
 **Others**
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ### 🔥 Featured Projects
-- **[Your Best Minecraft Mod]** — Description + tech
-- **[ML Project Name]** — e.g. "Predictive Minecraft Economy Model" or whatever you're proud of
-- **[YouTube Downloader / Instagram Tool / Spring Boot Project]** — brief highlight
+<!-- - **[Your Best Minecraft Mod]** — Description + tech
+- **[ML Project Name]** — e.g. "Predictive Minecraft Economy Model" or whatever you're proud of -->
+- **[YouTube Downloader / Instagram Reel Downloader / Spring Boot Project]** — brief highlight
 
-*(Pin your best 4–6 repos on your profile so they appear here automatically)*
+<!-- *(Pin your best 4–6 repos on your profile so they appear here automatically)* -->
 
 ### Currently Learning
 - Advanced Deep Learning architectures
@@ -50,8 +55,8 @@
 - MLOps & deploying models
 
 ### Let's Connect!
-- **Discord**: (add your tag)
-- **Minecraft Server / Modpack**: (link if you have one)
+- **Discord**: djo022.dc
+<!-- - **Minecraft Server / Modpack**: (link if you have one) -->
 - Open to **collaborations** on Minecraft mods or data/ML projects!
 
 ---
