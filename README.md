@@ -1,6 +1,8 @@
 <div align="center">
   <h1>Hey there! I'm Djo22 👋</h1>
   <img src="https://img.shields.io/badge/19-blue?style=flat" alt="age">
+  <img src="https://img.shields.io/badge/Software-Engineering-blue" />
+  <img src="https://img.shields.io/badge/Machine-Learning-blueviolet" />
   <img src="https://img.shields.io/badge/Minecraft%20Modder-brightgreen?style=flat&logo=minecraft&logoColor=white" alt="minecraft">
   
   <h3>Software Engineering • Data Science • Machine Learning • Minecraft Modding</h3>
