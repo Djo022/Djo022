@@ -1,7 +1,5 @@
 <div align="center">
   <h1>Hey there! I'm Djo22 👋</h1>
-  
-  <img src="https://img.shields.io/badge/they/them-%23FF69B4?style=flat&logo=pronouns&logoColor=white" alt="they/them">
   <img src="https://img.shields.io/badge/19-blue?style=flat" alt="age">
   <img src="https://img.shields.io/badge/Minecraft%20Modder-brightgreen?style=flat&logo=minecraft&logoColor=white" alt="minecraft">
   
@@ -36,7 +34,7 @@
 
 **Minecraft**
 ![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?logo=minecraft&logoColor=white)
-**Forge & Fabric _Making customs too_**
+**Forge & Fabric**
 
 **Others**
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
