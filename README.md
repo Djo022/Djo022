@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hey there! I'm Djo22 👋</h1>
+  <h1>Hey there! I'm Zaid Mansuri 👋</h1>
   <img src="https://img.shields.io/badge/19-blue?style=flat" alt="age">
   <img src="https://img.shields.io/badge/Software-Engineering-blue" />
   <img src="https://img.shields.io/badge/Machine-Learning-blueviolet" />
@@ -56,6 +56,7 @@
 
 ### Let's Connect!
 - **Discord**: djo022.dc
+- **LinkedIn**: https://www.linkedin.com/in/zaidmansuri07/
 <!-- - **Minecraft Server / Modpack**: (link if you have one) -->
 - Open to **collaborations** on Minecraft mods or data/ML projects!
 
